@@ -6,7 +6,7 @@
 
 <p>I’m building hands-on projects to strengthen my technical skills in:</p>
 
-<ul>
+<ul style="text-align: left; display: inline-block;">
   <li>🖥️ Windows Server Administration (AD, Group Policy, PowerShell)</li>
   <li>🐧 Linux & Networking (Ubuntu, Bash scripting)</li>
   <li>☁️ Cloud (Azure / AWS basics)</li>
