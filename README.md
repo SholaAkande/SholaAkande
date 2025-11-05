@@ -1,14 +1,17 @@
-<h1 align="center">👋 Hi, I'm Shola</h1>
+<div align="center">
 
-I'm an IT consultant transitioning into systems administration and cloud engineering.  
-I’m building hands-on projects to strengthen my technical skills in:
+<h1>👋 Hi, I'm Shola</h1>
 
-- 🖥️ Windows Server Administration (AD, Group Policy, PowerShell)
-- 🐧 Linux & Networking (Ubuntu, Bash scripting)
-- ☁️ Cloud (Azure / AWS basics)
-- 🧰 Automation & Python scripting
+<p>I'm an IT consultant transitioning into systems administration and cloud engineering.</p>
 
----
+<p>I’m building hands-on projects to strengthen my technical skills in:</p>
+
+<ul>
+  <li>🖥️ Windows Server Administration (AD, Group Policy, PowerShell)</li>
+  <li>🐧 Linux & Networking (Ubuntu, Bash scripting)</li>
+  <li>☁️ Cloud (Azure / AWS basics)</li>
+  <li>🧰 Automation & Python scripting</li>
+</ul>
 
 <hr>
 
