@@ -19,9 +19,9 @@ I’m building hands-on projects to strengthen my technical skills in:
 
 🧩 What I'm Working On
 <ul>
-  <li> - Setting up a home lab using VirtualBox with Windows Server and Ubuntu </li>
-  <li> - Automating Active Directory user creation with PowerShell </li>
-  <li> - Learning Python through football data analysis projects </li>
+  <li> Setting up a home lab using VirtualBox with Windows Server and Ubuntu </li>
+  <li> Automating Active Directory user creation with PowerShell </li>
+  <li>  Learning Python through football data analysis projects </li>
 </ul>
 ---
 
