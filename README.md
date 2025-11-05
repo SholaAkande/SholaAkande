@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shola</h1>
 
 <p align="center">
-  <img src="logo.png" alt="Logo" width="200"/>
+  
 </p>
 
 
