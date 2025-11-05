@@ -11,7 +11,7 @@
 I’m building hands-on projects to strengthen my technical skills in:
 
 <ul>
-- 🖥️ Windows Server Administration (AD, Group Policy, PowerShell)
+<li>- 🖥️ Windows Server Administration (AD, Group Policy, PowerShell)</li>
 - 🐧 Linux & Networking (Ubuntu, Bash scripting)
 - ☁️ Cloud (Azure / AWS basics)
 - 🧰 Automation & Python scripting
