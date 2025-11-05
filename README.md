@@ -5,7 +5,9 @@
 </p>
 
 
-I'm an IT consultant transitioning into systems administration and cloud engineering.  
+<div align="center">
+  
+  I'm an IT consultant transitioning into systems administration and cloud engineering.  
 I’m building hands-on projects to strengthen my technical skills in:
 
 - 🖥️ Windows Server Administration (AD, Group Policy, PowerShell)
@@ -36,3 +38,5 @@ I’m building hands-on projects to strengthen my technical skills in:
 ---
 
 ⭐ Check out my repositories below to see what I'm working on!
+
+</div>
