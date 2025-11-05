@@ -1,4 +1,9 @@
-👋 Hi, I'm Ishola Akande
+<h1 align="center">👋 Hi, I'm Shola</h1>
+
+<p align="center">
+  <img src="logo.png" alt="Logo" width="200"/>
+</p>
+
 
 I'm an IT consultant transitioning into systems administration and cloud engineering.  
 I’m building hands-on projects to strengthen my technical skills in:
