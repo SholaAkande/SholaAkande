@@ -10,11 +10,12 @@
   I'm an IT consultant transitioning into systems administration and cloud engineering.  
 I’m building hands-on projects to strengthen my technical skills in:
 
+<ul>
 - 🖥️ Windows Server Administration (AD, Group Policy, PowerShell)
 - 🐧 Linux & Networking (Ubuntu, Bash scripting)
 - ☁️ Cloud (Azure / AWS basics)
 - 🧰 Automation & Python scripting
-
+</ul>
 ---
 
 🧩 What I'm Working On
