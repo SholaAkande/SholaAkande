@@ -10,19 +10,19 @@
   I'm an IT consultant transitioning into systems administration and cloud engineering.  
 I’m building hands-on projects to strengthen my technical skills in:
 
-<ul>
-<li>- 🖥️ Windows Server Administration (AD, Group Policy, PowerShell)</li>
+- 🖥️ Windows Server Administration (AD, Group Policy, PowerShell)</li>
 - 🐧 Linux & Networking (Ubuntu, Bash scripting)
 - ☁️ Cloud (Azure / AWS basics)
 - 🧰 Automation & Python scripting
-</ul>
+
 ---
 
 🧩 What I'm Working On
-- Setting up a home lab using VirtualBox with Windows Server and Ubuntu
-- Automating Active Directory user creation with PowerShell
-- Learning Python through football data analysis projects
-
+<ul>
+  <li> - Setting up a home lab using VirtualBox with Windows Server and Ubuntu </li>
+  <li> - Automating Active Directory user creation with PowerShell </li>
+  <li> - Learning Python through football data analysis projects </li>
+</ul>
 ---
 
 🎯 Current Goals
