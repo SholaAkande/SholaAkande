@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align: center; display: inline-block;">
 
 <h1>👋 Hi, I'm Shola</h1>
 
