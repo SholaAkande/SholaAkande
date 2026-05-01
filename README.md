@@ -1,46 +1,52 @@
-<div style="text-align: center; display: inline-block;">
+# 👋 Hi, I'm Shola
 
-<h1>👋 Hi, I'm Shola</h1>
+IT professional transitioning into Cloud & DevOps Engineering, with a background in 
+systems administration and hands-on AWS project experience.
 
-<p>I'm an IT consultant transitioning into systems administration and cloud engineering.</p>
+---
 
-<p>I’m building hands-on projects to strengthen my technical skills in:</p>
+## ☁️ What I've Built
 
-<ul style="text-align: left; display: inline-block;">
-  <li>🖥️ Windows Server Administration (AD, Group Policy, PowerShell)</li>
-  <li>🐧 Linux & Networking (Ubuntu, Bash scripting)</li>
-  <li>☁️ Cloud (Azure / AWS basics)</li>
-  <li>🧰 Automation & Python scripting</li>
-</ul>
+### [AWS Cloud Resume Challenge](https://github.com/SholaAkande/cloud-resume) · [Live Site](https://dox67qshzudv7.cloudfront.net/)
+A full-stack serverless resume hosted entirely on AWS, built in the London (`eu-west-2`) region.
 
-<hr>
+**Stack:** S3 · CloudFront · Lambda (Python) · DynamoDB · Terraform · GitHub Actions CI/CD
 
-<h3>🧩 What I'm Working On</h3>
-<ul>
-  <li>Setting up a home lab using VirtualBox with Windows Server and Ubuntu</li>
-  <li>Automating Active Directory user creation with PowerShell</li>
-  <li>Learning Python through football data analysis projects</li>
-</ul>
+- Wrote Terraform IaC to provision and manage all AWS resources
+- Built a Python Lambda function with atomic DynamoDB writes and CORS handling
+- Configured a GitHub Actions pipeline to auto-deploy frontend changes to S3
+- Migrated the full stack from `us-east-1` to `eu-west-2` — reconfiguring IAM, 
+  DynamoDB ARNs, and Lambda triggers
+- Debugged IAM permission mismatches using CloudWatch Logs
 
-<hr>
+### AWS Networking Foundation
+Hands-on VPC build covering subnets, routing tables, security groups, and EC2 access 
+via SSH — including troubleshooting VPC CIDR conflicts and public/private instance connectivity.
 
-<h3>🎯 Current Goals</h3>
-<ul>
-  <li>Build a portfolio of practical sysadmin and cloud labs</li>
-  <li>Earn certifications like AZ-104 and Linux+</li>
-  <li>Transition into a technical IT role (SysAdmin / Cloud Support)</li>
-</ul>
+---
 
-<hr>
+## 🛠️ Skills & Tools
 
-<h3>📫 Connect With Me</h3>
-<ul>
-  <li><a href="https://www.linkedin.com/in/ishola-akande-7724b7162/">LinkedIn</a></li>
-  <li><a href="mailto:ishola.akande@proton.me">Email</a></li>
-</ul>
+| Area | Technologies |
+|---|---|
+| Cloud | AWS (S3, CloudFront, Lambda, DynamoDB, EC2, VPC, IAM, Route 53, ACM) |
+| IaC | Terraform |
+| CI/CD | GitHub Actions |
+| Languages | Python, Bash, PowerShell |
+| OS | Linux (Ubuntu), Windows Server |
 
-<hr>
+---
 
-<p>⭐ Check out my repositories below to see what I'm working on!</p>
+## 🎯 Current Focus
 
-</div>
+- AWS Solutions Architect Associate (SAA-C03)
+- Expanding IaC skills with Terraform modules and remote state
+- Building further AWS projects for portfolio
+
+---
+
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ishola-akande-7724b7162/)
+- [Email](mailto:ishola.akande@proton.me)
+- [Cloud Resume (Live)](https://dox67qshzudv7.cloudfront.net/)
